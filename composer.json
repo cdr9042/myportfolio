@@ -6,5 +6,9 @@
             "email": "cdr9042@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "post-install-cmd": [
+        "chmod -R 775 vendor/"
+    ]
+
 }
