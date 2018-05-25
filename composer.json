@@ -1,0 +1,10 @@
+{
+    "name": "administrator/game-portfolio",
+    "authors": [
+        {
+            "name": "cdr9042",
+            "email": "cdr9042@gmail.com"
+        }
+    ],
+    "require": {}
+}
